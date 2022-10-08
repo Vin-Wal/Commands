@@ -2,3 +2,4 @@ Pandas
 Numpy
 Scikit
 Matplotlib
+Seaborn
